@@ -3,7 +3,11 @@ guid: 1d539a49d4951e44ba08de23a23c3b2f
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - GreenSpawnPad: {fileID: 8896062946288700987, guid: b71688a5c40ce6142b4cb748990533e1,
+      type: 3}
+  - DoorHandle: {instanceID: 0}
+  - ActivatePadAudio: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
