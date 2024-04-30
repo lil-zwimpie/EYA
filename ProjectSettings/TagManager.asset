@@ -4,19 +4,16 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - HandleGame
-  - FactoryHub
   - Red
   - Blue
   - Green
   - Yellow
-  - LampGame
-  - TubeGame
-  - CombinationGame
   - StopTimer
-  - Key
   - World_Portals
   - World_NoPortals
+  - backrooms
+  - post processing
+  - Tutorial
   layers:
   - Default
   - TransparentFX
@@ -36,7 +33,7 @@ TagManager:
   - BlockHandle
   - ShouldNotHit
   - HitStart
-  - 
+  - post processing
   - 
   - 
   - 
