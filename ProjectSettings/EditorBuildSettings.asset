@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Game/backrooms.unity
     guid: f244a44a6f25f2b479b4ce1c1cb5d818
+  - enabled: 1
+    path: Assets/Scenes/Game/room 2.unity
+    guid: 4aac71b624e8cda4892132324a1fd92a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}
