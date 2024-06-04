@@ -9,14 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Game/Tutorial.unity
     guid: 2ad012aa539273247ad1402e8e1d95c8
   - enabled: 1
-    path: Assets/Scenes/Game/World_Portals.unity
-    guid: 43b758c3c13d03d4fab97276738e7f78
+    path: Assets/Scenes/Game/backrooms.unity
+    guid: f244a44a6f25f2b479b4ce1c1cb5d818
   - enabled: 1
     path: Assets/Scenes/Game/World_NoPortals.unity
     guid: a5ebfa099c8659746807f4dc1a20a2bb
   - enabled: 1
-    path: Assets/Scenes/Game/backrooms.unity
-    guid: f244a44a6f25f2b479b4ce1c1cb5d818
+    path: Assets/Scenes/Game/World_Portals.unity
+    guid: b994a2caeca639d48839e0c9f055d83f
   - enabled: 1
     path: Assets/Scenes/Game/room 2.unity
     guid: 4aac71b624e8cda4892132324a1fd92a
